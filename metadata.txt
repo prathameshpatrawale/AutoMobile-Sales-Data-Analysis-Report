@@ -1,0 +1,259 @@
+About Dataset
+content
+This dataset contains detailed information about business product sales, 
+focusing on items sold by the Zara brand. It includes key attributes such
+ as product ID, product position in the store, promotion status, product 
+category, seasonality, sales volume, pricing, material, origin, and 
+ustomer-facing details like product names and descriptions. The dataset helps
+ in understanding how different product features and marketing factors influence
+ sales performance. It can be used for exploratory data analysis, identifying 
+best-selling products, studying seasonal trends, and developing business strategies
+ based on customer purchasing behavior.
+
+context
+This dataset provides context for analyzing how different product features and marketing
+ variables impact business sales performance. The data includes product information such 
+as category, price, material, season, and origin, along with retail factors like store 
+placement, promotions, and brand details. By combining sales volume with these features, 
+the dataset allows businesses to examine customer buying behavior, discover trends across 
+seasons, evaluate the success of promotional strategies, and understand which products perform 
+best in specific conditions. This context makes the dataset valuable for business intelligence,
+data analysis, and decision-making in retail environments
+
+Usability
+10.00
+
+License
+CC0: Public Domain
+
+Expected update frequency
+Never
+
+Tags
+Business
+Data Analytics
+Data Visualization
+Exploratory Data Analysis
+Business_sales_EDA.csv(6.55 MB)
+
+17 of 17 columns
+
+About this file
+
+Suggest Edits
+“About this file”
+This file contains sales data for products sold by the Zara brand. 
+It includes detailed information such as product ID, product position 
+inside the store, whether the item was on promotion, product category,
+ season, price, description, origin, andsales volume. Each row represents
+ a single product, giving useful insights into how pricing, store placement, 
+seasonality, and product features affect customer buying behavior. This file 
+is useful for business analysis, retail trend study, data visualization, and
+ understanding which products perform best in different marketing and seasonal conditions.
+
+
+Product ID
+A unique number that identifies each product.
+
+
+Product Position
+Where the product is placed in the store
+
+
+Promotion
+Shows whether the product was on sale or promotion
+
+
+Product Category
+The type of product
+
+
+Seasonal
+Tells if the product is seasonal
+
+
+Sales Volume
+Number of units sold.
+
+
+brand
+The brand of the product
+
+
+url
+Web link to the product page
+
+
+name
+Name or title of the product.
+
+
+description
+Short text describing the product.
+
+
+price
+
+currency
+
+terms
+
+section
+
+season
+
+material
+
+origin
+Label	Count
+110075.00 - 115552.80	15
+115552.80 - 121030.60	17
+121030.60 - 126508.40	18
+126508.40 - 131986.20	14
+131986.20 - 137464.00	23
+137464.00 - 142941.80	15
+142941.80 - 148419.60	15
+148419.60 - 153897.40	15
+153897.40 - 159375.20	16
+159375.20 - 164853.00	8
+164853.00 - 170330.80	16
+170330.80 - 175808.60	17
+175808.60 - 181286.40	9
+181286.40 - 186764.20	23
+186764.20 - 192242.00	10
+192242.00 - 197719.80	13
+197719.80 - 203197.60	3,574
+203197.60 - 208675.40	5,478
+208675.40 - 214153.20	5,478
+214153.20 - 219631.00	5,478
+110k
+220k
+Aisle
+39%
+End-cap
+34%
+Other (5651)
+28%
+true
+false
+Boolean	Count
+true	8,440
+false	11,812
+[null]	0
+true
+
+844042%
+
+false
+
+11.8k58%
+
+1
+
+unique value
+true
+false
+Boolean	Count
+true	10,116
+false	10,136
+[null]	0
+true
+
+10.1k50%
+
+false
+
+10.1k50%
+
+Label	Count
+518.00 - 589.10	35
+589.10 - 660.20	215
+660.20 - 731.30	838
+731.30 - 802.40	2,090
+802.40 - 873.50	2,974
+873.50 - 944.60	2,720
+944.60 - 1015.70	1,765
+1015.70 - 1086.80	921
+1086.80 - 1157.90	639
+1157.90 - 1229.00	714
+1229.00 - 1300.10	1,103
+1300.10 - 1371.20	1,309
+1371.20 - 1442.30	1,426
+1442.30 - 1513.40	1,314
+1513.40 - 1584.50	902
+1584.50 - 1655.60	617
+1655.60 - 1726.70	379
+1726.70 - 1797.80	190
+1797.80 - 1868.90	77
+1868.90 - 1940.00	24
+518
+1940
+1
+
+unique value
+228
+
+unique values
+17216
+
+unique values
+Varsity jacket with elastic collar and long sleeves. Welt pockets at hip and interior pocket. Embroidered appliqué and contrast front and back patches. Rib trim. Front snap button closure.
+2%
+Overshirt made of stretchy fabric. Lapel collar and long sleeves with snap buttoned cuffs. Chest patch pockets. Front snap button closure.
+1%
+Other (19722)
+97%
+Label	Count
+12.00 - 18.15	1,994
+18.15 - 24.30	3,290
+24.30 - 30.45	3,251
+30.45 - 36.60	2,190
+36.60 - 42.75	1,720
+42.75 - 48.90	1,360
+48.90 - 55.05	1,713
+55.05 - 61.20	1,015
+61.20 - 67.35	711
+67.35 - 73.50	692
+73.50 - 79.64	516
+79.64 - 85.79	536
+85.79 - 91.94	474
+91.94 - 98.09	139
+98.09 - 104.24	242
+104.24 - 110.39	125
+110.39 - 116.54	33
+116.54 - 122.69	148
+122.69 - 128.84	27
+128.84 - 134.99	76
+12
+135
+1
+
+unique value
+jackets
+55%
+sweaters
+16%
+Other (5763)
+28%
+WOMAN
+65%
+MAN
+35%
+Autumn
+38%
+Winter
+25%
+Other (7443)
+37%
+Cotton
+19%
+Wool
+19%
+Other (12596)
+62%
+China
+20%
+Bangladesh
+18%
+Other (12609)
+62%
