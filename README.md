@@ -1,4 +1,4 @@
-# Business Sales Data Analysis | Power BI Dashboard
+# Automobile Sales Data Analysis | Power BI Dashboard
 
 ## Project Overview
 This project focuses on analyzing global business sales data using Power BI to identify sales trends, product performance, customer behavior, and regional insights. The dashboard helps stakeholders monitor KPIs, evaluate revenue drivers, and support data-driven decision-making.
