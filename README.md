@@ -1,123 +1,53 @@
-
-# Business Sales Data Analysis – Power BI Dashboard
+# Business Sales Data Analysis | Power BI Dashboard
 
 ## Project Overview
+This project focuses on analyzing global business sales data using Power BI to identify sales trends, product performance, customer behavior, and regional insights. The dashboard helps stakeholders monitor KPIs, evaluate revenue drivers, and support data-driven decision-making.
 
-This project focuses on analyzing **business sales data** using **Power BI** to understand overall sales performance, customer behavior, product trends, and logistics status.
-The dashboard is designed to give a **clear and interactive view** of sales data for better business decision-making.
+## Tools & Technologies
+- Power BI
+- DAX
+- Power Query
+- SQL
+- Advanced Excel
+- Data Modeling
 
-The analysis covers sales across **multiple countries, cities, product lines, customers, order status, and time periods**.
+## Key KPIs
+- Total Sales: 9.76M
+- Average Sales Value: 3.55K
+- Total Quantity Sold: 96.43K
+- Average Quantity per Order: 35.10
+- Countries Covered: 19
+- Cities Covered: 71
 
-
-
-## Tools & Technologies Used
-
-* Power BI
-* Power Query (Data Cleaning & Transformation)
-* DAX (Measures and Calculations)
-* Microsoft Excel (Data Source)
-
-
-
-## Dashboard Pages Description
-
+## Dashboard Pages
 ### 1. Overview
-
-This page gives a high-level summary of the business:
-
-* Total Sales
-* Average Sales
-* Total Quantity Sold
-* Average Quantity per Order
-* Total Countries and Cities
-* Monthly Sales Trend (Line Chart)
-* Sales Distribution by Country and City (Map Visuals)
-* Quantity Ordered by Product Line
-
-Slicers are provided for:
-
-* Country
-* City
-* Deal Size
-* Order Status
-* Date Range
-
-
+- Sales trends over time
+- Geographic sales distribution
+- Product line quantity analysis
+- High-level KPIs for quick decision-making
 
 ### 2. Customer & Logistics Analysis
-
-This page focuses on **customer performance and order status**:
-
-* Sales Overview by Customer (Table)
-* Top 5 Customers by Total Sales (Bar Chart)
-* Order Status vs Total Sales (Funnel Chart)
-* Deal Size Distribution by Ordered Quantity (Donut Chart)
-
-This helps in identifying:
-
-* High-value customers
-* Order issues like cancellations and disputes
-* Sales contribution by deal size
-
-
+- Top customers by total sales
+- Order status impact on revenue
+- Deal size contribution analysis
+- Customer-level sales and quantity metrics
 
 ### 3. Product Performance & Pricing
+- Product line sales by deal size
+- MSRP vs average price analysis
+- Product-level sales contribution using treemap
+- Detailed order-level sales data
 
-This page analyzes **product-level performance**:
+## Key Business Insights
+- Classic Cars is the highest revenue-generating product line.
+- Sales peak during year-end months, indicating seasonal demand.
+- Medium-sized deals contribute the majority of total sales.
+- Order cancellations and delays impact revenue realization.
+- North America and Europe dominate overall sales performance.
 
-* Average Price vs MSRP by Product Line (Scatter Plot)
-* Total Sales by Product Line and Deal Size (Bar Chart)
-* Product Line and Product Code Contribution (Tree Map)
-* Order-level Sales Details Table
-
-This section helps in understanding:
-
-* Pricing effectiveness
-* Best-performing product lines
-* Sales contribution by individual products
-
-
-
-## Key Insights
-
-* Classic Cars and Vintage Cars generate the highest sales.
-* Medium deal size contributes the largest share of revenue.
-* Certain customers consistently generate high sales volume.
-* Monthly sales show seasonal fluctuations.
-* Order status analysis highlights revenue loss due to cancellations and disputes.
-
-
-
-## Data Notes
-
-* Some raw or intermediate data files are intentionally excluded to reduce repository size.
-* The Power BI file contains cleaned and modeled data suitable for analysis.
-
-
-
-## How to Use
-
-1. Download the `.pbix` file.
-2. Open it using **Power BI Desktop**.
-3. Use slicers to filter data by time, location, product line, and order status.
-4. Navigate between pages using the left-side buttons.
-
-
-
-## Project Purpose
-
-This project was created to:
-
-* Practice real-world Power BI dashboard development
-* Improve data modeling and DAX skills
-* Showcase analytical thinking for **Data Analyst / Business Analyst roles**
-
-
+## Conclusion
+The dashboard provides a comprehensive view of business performance across products, customers, and regions. Insights from this analysis can help improve sales strategy, inventory planning, customer targeting, and operational efficiency.
 
 ## Author
-
-Prathamesh Patravale
-Entry-level Data Analyst / Data Scientist
-Skills: Power BI, SQL, Python, Statistics, Data Analysis
-
-
+Prathamesh Nagesh Patravale  
+Aspiring Data Analyst | Power BI | SQL | Advanced Excel | Python
