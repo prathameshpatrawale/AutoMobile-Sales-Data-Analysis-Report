@@ -52,10 +52,5 @@ The dashboard provides a comprehensive view of business performance across produ
 Prathamesh Nagesh Patravale  
 Aspiring Data Analyst | Power BI | SQL | Advanced Excel | Python
 
-![AutoMobile_Dash1](https://github.com/user-attachments/assets/2fa79e29-5628-4882-a854-20c31d79e34a)
-
-![AutoMobile_dash2](https://github.com/user-attachments/assets/202b0b75-29c9-4e32-851f-d3c6fb9f079a)
-
-![AutoMobile_dash3](https://github.com/user-attachments/assets/a70be345-5fcf-4da5-a83d-31da53feb14c)
-
+![Screenshot 2026-01-16 204405](https://github.com/user-attachments/assets/6a0976cf-dc0f-476a-8a52-767d8975f4b3)
 
