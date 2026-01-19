@@ -52,7 +52,8 @@ The dashboard provides a comprehensive view of business performance across produ
 Prathamesh Nagesh Patravale  
 Aspiring Data Analyst | Power BI | SQL | Advanced Excel | Python
 
-![Screenshot 2026-01-16 233100](https://github.com/user-attachments/assets/d13562c7-3e2e-498e-a9d2-ae0c4bb11093)
-![Screenshot 2026-01-16 233039](https://github.com/user-attachments/assets/4930c8c0-e01c-487d-aadc-90459a820685)
-![Screenshot 2026-01-16 233007](https://github.com/user-attachments/assets/aebfa739-0208-4d30-ae86-57413316e296)
+
+![Screenshot 2026-01-19 131448](https://github.com/user-attachments/assets/c2125a54-21ee-4d67-a0f6-6bee1464a3e7)
+![Screenshot 2026-01-19 131524](https://github.com/user-attachments/assets/60688f34-977b-4339-ac11-b810da683828)
+![Screenshot 2026-01-19 131417](https://github.com/user-attachments/assets/101cb75c-3daa-45d2-86b1-6093e11ede6e)
 
